@@ -1,3 +1,4 @@
+# нужен только при запуске локально
 version: '3'
 
 volumes:
@@ -35,3 +36,4 @@ services:
       - media:/media
     depends_on:
       - backend
+      - frontend
