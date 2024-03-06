@@ -1,4 +1,4 @@
-[![Kittygram](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://github.com/kolian338/kittygram_final/actions/workflows/main.yml)
+![Kittygram](https://github.com/kolian338/kittygram_final/actions/workflows/main.yml/badge.svg)
 # Kittygram - социальная сеть для размещение фотографий домашних животных.
 ## Описание проекта
 Проект, где пользователи могут регистрироваться, загружать фотографии кошек с описанием их достижений, а также любоваться на других котов.
